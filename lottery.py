@@ -1,8 +1,3 @@
-"""
-COMP.CS.100 The first Python program of programming 1.
-Creator: Ujunwa Edum
-Student id number: 153062092
-"""
 def factorial(n):
     """Calculates the factorial of a given positive integer n.
 
