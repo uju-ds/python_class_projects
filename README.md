@@ -1,4 +1,4 @@
-# python_class_projects
+# python_class_projects (lottery)
 
 In this task, we are interested by the probabilities of the player winning the jackpot, ie. guessing all the balls correctly. In Finnish lottery, for instance, this would mean the probability of the player guessing all 7 balls correctly with only one lottery ticket.
 
